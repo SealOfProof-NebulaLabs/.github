@@ -1,12 +1,8 @@
 # Seal of Proof
 
-**The Web3 Certification Platform**
-
 Seal of Proof is an innovative financial system designed to provide secure and verifiable certificates by leveraging blockchain technology's power and immutability. By using Non-Fungible Tokens (NFTs) as digital certificates, Seal of Proof creates an unalterable record of ownership and verification. 
 
 Seal of Proof is proudly developed and owned by **Nebula Labs**, a collective of developers that aims to create beautiful, interconnected systems in the vast Web3 universe.
-
-Visit the official website: [Seal of Proof](https://sealofproof.com)
 
 ## Features
 
