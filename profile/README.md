@@ -44,9 +44,6 @@ Balance Certification is a feature designed to verify and authenticate the balan
 
 By employing this service, users gain a secure, transparent certification process that facilitates better management of their digital assets across various wallets.
 
-### Export PDF
-All certifications within the application can be seamlessly exported into a PDF format. This functionality ensures that users have a tangible, official document that can be easily presented in professional settings or retained for personal record-keeping.
-
 ## Benefits
 
 Seal of Proof offers:
